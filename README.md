@@ -6,3 +6,10 @@ This repository contains a simple Graphical User Interface (GUI) for handwritten
 <br> -Training the Model: Train the neural network model using the MNIST dataset by specifying the number of epochs, batch size, and learning rate.
 <br> -Prediction: After drawing a digit, users can predict the digit using the trained model.
 <br> -Clear Canvas: Clear the drawing canvas to start fresh.
+
+## Prerequisites
+Before running the application, ensure you have the required dependencies installed. You can install them using the following command:
+
+'''bash
+pip install numpy keras Pillow
+'''
