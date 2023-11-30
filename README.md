@@ -10,6 +10,6 @@ This repository contains a simple Graphical User Interface (GUI) for handwritten
 ## Prerequisites
 Before running the application, ensure you have the required dependencies installed. You can install them using the following command:
 
-'''bash
+```bash
 pip install numpy keras Pillow
-'''
+```
