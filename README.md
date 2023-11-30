@@ -13,3 +13,13 @@ Before running the application, ensure you have the required dependencies instal
 ```bash
 pip install numpy keras Pillow
 ```
+## Customization
+Feel free to customize the neural network architecture in the 'create_model' method within the 'DigitRecognitionGUI' class. You can experiment with different layers, units, and activation functions to improve the model's performance.
+
+## Issues and Contributions
+If you encounter any issues or have suggestions for improvement, please feel free to open an issue or create a pull request. Your contributions are highly appreciated.
+
+## Credits
+<br>-The neural network model is built using the Keras library.
+<br>-The GUI is created with Tkinter.
+<br>-The MNIST dataset is used for training and testing the model.
